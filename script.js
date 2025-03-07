@@ -35,5 +35,5 @@ function myChoice(event) {
   document.getElementById("computer").innerHTML = "Computer: " + computerScore;
   document.getElementById(
     "result"
-  ).innerHTML = `Du valgte ${myChoice}, computer valgte ${computerChoice}. ${result}`;
+  ).innerHTML = `Du valgte ${myChoice}, dataen valgte ${computerChoice}. ${result}`;
 }
