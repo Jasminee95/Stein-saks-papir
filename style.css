@@ -1,0 +1,43 @@
+#app {
+    display: flex;
+   
+}
+
+
+#rock{
+    width: 100px;
+    height: 100px;
+    display: flex;
+    margin-left: 100px;
+    cursor: pointer;
+}
+
+#paper{
+    width: 100px;
+    height: 100px;
+    display: flex;
+    margin-left: 100px;
+    cursor: pointer
+}
+
+#scissors{
+    width: 100px;
+    height: 100px;
+    display: flex;
+    margin-left: 100px;
+    cursor: pointer;
+}
+
+button{
+    width: 100px;
+    height: 50px;
+    display: flex;
+    font-size: 30px;
+    align-items: center;
+    text-align: center;
+    margin-left: 48%;
+    cursor: pointer;
+    background-color: blue;
+    color: white;
+    border-radius: 30%;
+}
